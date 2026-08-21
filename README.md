@@ -2,6 +2,10 @@
 
 A responsive personal portfolio for **Devika N**, a Software Engineer specializing in C#/.NET, Golang, REST APIs, Azure, AWS, and cloud-native backend systems.
 
+## Live Portfolio
+
+[View Portfolio](https://devika-portfolio-zeta.vercel.app/)
+
 ## Features
 
 - Responsive design for desktop, tablet, and mobile
